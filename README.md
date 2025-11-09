@@ -13,7 +13,7 @@ The first version is a simple language model built on statistics. It works by co
 * Samples from this matrix to generate new names.
 * Visualizes the probabilities using a heatmap.
 
-![Heatmap of Bigram Probabilities](./heatmap.jpg)
+![Heatmap of Bigram Probabilities](./heatmap.png)
 
 ### Part 2: Neural Network Model
 The second part reframes the problem using a simple neural network. This version uses PyTorch to build a model that *learns* the probabilities through gradient descent.
